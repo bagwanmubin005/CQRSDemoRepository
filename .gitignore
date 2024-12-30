@@ -1,2 +1,6 @@
-.dll
-.pdb
+*.dll
+*.pdb
+*.so
+[Dd]ebug/
+[Rr]elease/
+
